@@ -1,4 +1,4 @@
-# This function imports a cryptocurrency trading history file in csv format. It is formatted to date and organized by the dates which are in a Timestamp column. It is assumed this file has a Close column with closing price amounts for each Timestamp.
+# This function imports a close price history file in csv format. It is formatted to date and organized by the dates which are in a "date" column.
 
 import pandas as pd
 from pathlib import Path
