@@ -1,5 +1,5 @@
 # This function imports a close price history file in csv format. It is formatted to date and organized by the dates which are in a "date" column.
-#
+# Import required libraries
 
 import pandas as pd
 from pathlib import Path
