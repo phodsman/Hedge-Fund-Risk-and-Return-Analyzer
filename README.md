@@ -15,11 +15,11 @@ To install required dependencies, run
 
 ## Usage
 
-Run this program in Jupyter Lab.
+Run the program `risk_return_analysis.ipynb` in Jupyter Lab.
 
 You will see output that looks like this:
 
-![]()
+![](https://github.com/phodsman/Hedge-Fund-Risk-and-Return-Analyzer/blob/main/Screenshot%202021-10-12%20141007.png?raw=true)
 
 ## Contributors
 This program was written by Preston Hodsman based on a request for analysis from Trilogy Education Services, a 2U, Inc.
